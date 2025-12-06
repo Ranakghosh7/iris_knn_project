@@ -4,7 +4,7 @@ A simple, friendly, and fully-commented machine learning pipeline using the clas
 
 ---
 
-## 📁 Project Overview
+## 📁 Project Overview 
 
 This project demonstrates:
  
