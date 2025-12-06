@@ -7,7 +7,7 @@ A simple, friendly, and fully-commented machine learning pipeline using the clas
 ## 📁 Project Overview
 
 This project demonstrates:
-
+ 
 * Loading and understanding the Iris dataset
 * Creating a visualization with **ggplot2**
 * Splitting data into training and testing sets using **caret**
