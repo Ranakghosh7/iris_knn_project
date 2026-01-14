@@ -14,7 +14,7 @@ This project demonstrates:
 * Training a KNN classifier with the **class** package
 * Evaluating model accuracy
 * Predicting the species of a brand‑new flower
-
+ 
 The script includes fun, friendly console messages to make the pipeline more enjoyable.
 
 ---
